@@ -1,3 +1,4 @@
+	self.XXXList = {}
 	local Count = #List
 	for i=1,#List do
 		local Item = resMgr:CreateSprite("xxx")
